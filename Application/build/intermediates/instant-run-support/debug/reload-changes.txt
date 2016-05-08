@@ -1,0 +1,11 @@
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$ConfirmationDialog$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$CompareSizesByArea$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$1$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$ErrorDialog$1$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$ErrorDialog$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$2$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$3$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$ConfirmationDialog$2$override.class
+CHANGED,D:\Downloads\Camera2Video\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\camera2video\Camera2VideoFragment$ConfirmationDialog$1$override.class
